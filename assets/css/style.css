@@ -1,0 +1,28 @@
+/* font-family: 'Advent Pro', sans-serif;
+font-family: 'Nanum Pen Script', cursive;
+font-family: 'Gruppo', cursive; */
+
+
+body {
+    background-color: beige;
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Advent Pro', sans-serif;
+    color: darkslategrey;
+}
+
+p {
+    font-size: 20px;
+}
+
+.score-tracker {
+    font-size: 36px;
+    display: block;
+    margin: 0 auto;
+   
+}
+.stones {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

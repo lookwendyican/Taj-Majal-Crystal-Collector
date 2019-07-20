@@ -16,6 +16,10 @@ p {
     font-size: 20px;
 }
 
+.goodLuck{
+    font-weight: bold;
+    font-size: 25px;
+}
 .score-tracker {
     font-size: 36px;
     display: block;
@@ -29,14 +33,21 @@ p {
     cursor: pointer;
 }
 
+
 .crystals {
     display: flex;
     justify-content: space-around;
     align-items: center;
 }    
 .crystal{
-    border: 1px solid green;
-    height: 200px;
-    width: 200px;
+   
+    height: 150px;
+    width: 150px;
 
+}
+
+.score-tracker{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }

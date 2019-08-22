@@ -8,7 +8,7 @@ You will be given a random number at the start of the game.  There are four crys
 
 
 Click on the following **link**  to preview the completed assignment.
-https://lookwendyican.github.io/unit-4-game/
+https://lookwendyican.github.io/Taj-Majal-Crystal-Collector/
 
 ### Built With
 * HTML5
